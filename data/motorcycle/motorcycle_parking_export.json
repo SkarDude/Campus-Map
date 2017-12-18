@@ -24,5 +24,6 @@
     { "type": "Feature", "properties": { "Name": "Motorcycle Parking 19", "description": "Garage G", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -81.197777777777787, 28.60852777777778, 0.0 ] } },
     { "type": "Feature", "properties": { "Name": "Motorcycle Parking 20", "description": "Garage E", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -81.195475, 28.606427777777778, 0.0 ] } },
     { "type": "Feature", "properties": { "Name": "Motorcycle Parking 21", "description": "Lot E4", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -81.189972222222224, 28.604263888888891, 0.0 ] } }
-    ]
+    { "type": "Feature", "properties": { "Name": "Motorcycle Parking 22", "description": "CFE Arena", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -81.197343, 28.606444, 0.0 ] } }    
+]
     }
